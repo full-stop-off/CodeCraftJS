@@ -1,8 +1,8 @@
-// DataTypes determines the behaviour of values and the operations that can be performed on them.
+// DataTypes determines the behavior of values and the operations that can be performed on them.
 
 "use strict"; // Treats old JS code to a newer version
 
-let username = "fullstop";
+let username = "full stop";
 let age = 16;
 let isAdmin = false;
 let state;
