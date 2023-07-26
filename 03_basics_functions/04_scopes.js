@@ -1,6 +1,6 @@
 // Nested scope level
-// Hoisting - how function are decleared, how they are stored, execution context
-// how variables are treated, how tree is created where variables & funcation stored
+// Hoisting - how functions are declared, how they are stored, execution context
+// how variables are treated, how the tree is created where variables & functions stored
 
 function one() {
     const username = "fullstop";
@@ -10,7 +10,7 @@ function one() {
     }
     // console.log(website); // it is not defined -> local scope
 
-    two(); // if function is not called it won't execute console
+    two(); // if the function is not called it won't execute the console
 }
 
 one();
@@ -29,7 +29,7 @@ if (true) {
 
 // +++++++++++++++ Intersting ++++++++++
 
-console.log(addOne(1)); // executes before declearation of function
+console.log(addOne(1)); // executes before declaration of function
 // Basic function
 function addOne(num) {
     return num + 1;
