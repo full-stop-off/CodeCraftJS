@@ -1,4 +1,4 @@
-// nested scope level
+// Nested scope level
 // Hoisting - how function are decleared, how they are stored, execution context
 // how variables are treated, how tree is created where variables & funcation stored
 
