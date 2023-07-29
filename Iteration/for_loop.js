@@ -41,4 +41,4 @@ for (let i = 1; i <= 10; i++) {
         continue; // ignore mistakes 
     }
     console.log(`The value of I is ${i}`);
-}
+} 
